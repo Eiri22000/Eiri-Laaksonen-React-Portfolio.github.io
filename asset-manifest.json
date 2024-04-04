@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/laaksonen-react-portfolio/static/css/main.c23155de.css",
+    "main.js": "/laaksonen-react-portfolio/static/js/main.ffa7ec9a.js",
+    "static/js/453.af1ac4eb.chunk.js": "/laaksonen-react-portfolio/static/js/453.af1ac4eb.chunk.js",
+    "static/media/eiri.png": "/laaksonen-react-portfolio/static/media/eiri.be21bbf8da93462f0f49.png",
+    "static/media/PracticalAI.png": "/laaksonen-react-portfolio/static/media/PracticalAI.6453e2d312bc69b24e7a.png",
+    "static/media/csm-badge.png": "/laaksonen-react-portfolio/static/media/csm-badge.93655c616365bbc077c5.png",
+    "index.html": "/laaksonen-react-portfolio/index.html",
+    "main.c23155de.css.map": "/laaksonen-react-portfolio/static/css/main.c23155de.css.map",
+    "main.ffa7ec9a.js.map": "/laaksonen-react-portfolio/static/js/main.ffa7ec9a.js.map",
+    "453.af1ac4eb.chunk.js.map": "/laaksonen-react-portfolio/static/js/453.af1ac4eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c23155de.css",
+    "static/js/main.ffa7ec9a.js"
+  ]
+}
